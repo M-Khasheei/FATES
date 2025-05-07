@@ -11,7 +11,7 @@ Once the heavy hitters are identified, FATES builds a lightweight, predictive *p
 - Generate results in a fraction of a second.
 - Run large-scale **Monte Carlo simulations** quickly and accurately.
 
-# The screening.py and proxy.py files should be run in different folder otherwise the results will be replaced. ATES.prj and Logo1.jpeg should also be available in each folder at time of run.
+[![Attention] The screening.py and proxy.py files should be run in different folder otherwise the results will be replaced. ATES.prj and Logo1.jpeg should also be available in each folder at time of run.
 
 Installation Instructions
 
